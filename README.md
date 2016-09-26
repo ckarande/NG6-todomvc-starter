@@ -1,6 +1,8 @@
 NG6-starter TodoMVC Example
 ============================
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 This application is example of how you can write your angular applications using [NG6-starter](https://github.com/AngularClass/NG6-starter) as your starting point. Currently this example provides you:
 
  - Example of small-sized application
